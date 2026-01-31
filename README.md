@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi 👋 I'm Nitesh Kumar
 
-<!--
-**niteshkjaiswal108-svg/niteshkjaiswal108-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on building real-world healthcare and SaaS systems.
 
-Here are some ideas to get you started:
+### 🚀 Current Work
+- Clinic appointment booking system (deployed)
+- Multi-tenant clinic feedback platform
+- WhatsApp automation to reduce appointment no-shows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tech Stack
+- Node.js, Express
+- PostgreSQL, MongoDB
+- REST APIs
+- JWT Authentication
+- Vercel, Render
+
+### 💡 What I Care About
+- Clean backend architecture
+- Scalable database design
+- Solving real business problems
+
+📫 Contact: niteshkumar1234yt@gmail.com
