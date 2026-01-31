@@ -1,22 +1,54 @@
 ## Hi 👋 I'm Nitesh Kumar
 
-Backend Developer focused on building real-world healthcare and SaaS systems.
+Full-Stack (MERN) Developer building real-world, production-ready applications — especially in healthcare and SaaS.
 
-### 🚀 Current Work
-- Clinic appointment booking system (deployed)
-- Multi-tenant clinic feedback platform
-- WhatsApp automation to reduce appointment no-shows
+I focus on solving real business problems with clean architecture, scalable APIs, and practical UI.
+
+---
+
+### 🚀 What I’m Working On
+- 🏥 **Clinic Appointment Booking System** (deployed)
+- ⭐ **Multi-Tenant Clinic Feedback SaaS**
+- 📲 **WhatsApp Automation System** to reduce appointment no-shows
+
+---
 
 ### 🧠 Tech Stack
-- Node.js, Express
-- PostgreSQL, MongoDB
-- REST APIs
-- JWT Authentication
+
+**Frontend**
+- React.js
+- HTML, CSS, JavaScript
+- Responsive UI & basic UX principles
+
+**Backend**
+- Node.js, Express.js
+- REST API design
+- JWT Authentication & Role-Based Access
+
+**Databases**
+- PostgreSQL
+- MongoDB
+- Schema design & indexing
+
+**Dev & Deployment**
 - Vercel, Render
+- Git & GitHub
+- Environment-based configuration
+
+---
 
 ### 💡 What I Care About
-- Clean backend architecture
-- Scalable database design
-- Solving real business problems
+- Clean and maintainable code
+- Scalable system design
+- Real-world use cases (not just tutorials)
+- Building products that actually get used
 
-📫 Contact: niteshkumar1234yt@gmail.com
+---
+
+### 📌 Goals
+- Grow as a strong Full-Stack / Backend Engineer
+- Build SaaS products for real businesses
+- Work with startups solving meaningful problems
+
+📫 **Contact:** niteshkumar1234yt@gmail.com
+
