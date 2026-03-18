@@ -1,54 +1,79 @@
-## Hi 👋 I'm Nitesh Kumar
-
-Full-Stack (MERN) Developer building real-world, production-ready applications — especially in healthcare and SaaS.
-
-I focus on solving real business problems with clean architecture, scalable APIs, and practical UI.
-
----
-
-### 🚀 What I’m Working On
-- 🏥 **Clinic Appointment Booking System** (deployed)
-- ⭐ **Multi-Tenant Clinic Feedback SaaS**
--  **Property Maintainance Management System**
+<h1 align="center">Hi, I am Nitesh Kumar</h1>
+<p align="center">
+I build real-world systems, explore system design, and learn by shipping projects.
+</p>
 
 ---
 
-### 🧠 Tech Stack
+## About Me
 
-**Frontend**
-- React.js
-- HTML, CSS, JavaScript
-- Responsive UI & basic UX principles
+I am a developer focused on building practical and scalable applications.  
+I am deeply interested in system design, backend architecture, and writing efficient code.
 
-**Backend**
-- Node.js, Express.js
-- REST API design
-- JWT Authentication & Role-Based Access
-
-**Databases**
-- PostgreSQL
-- MongoDB
-- Schema design & indexing
-
-**Dev & Deployment**
-- Vercel, Render
-- Git & GitHub
-- Environment-based configuration
+Currently, I am learning **Rust** to understand low-level systems, performance, and memory safety.
 
 ---
 
-### 💡 What I Care About
-- Clean and maintainable code
-- Scalable system design
-- Real-world use cases (not just tutorials)
-- Building products that actually get used
+## What I Am Working On
+
+- Building real-world backend systems  
+- Improving my understanding of system design and architecture  
+- Exploring Rust and systems programming  
+- Working on a hackathon project: **SecureDesk**
 
 ---
 
-### 📌 Goals
-- Grow as a strong Full-Stack / Backend Engineer
-- Build SaaS products for real businesses
-- Work with startups solving meaningful problems
+## Projects
 
-📫 **Contact:** niteshkumar1234yt@gmail.com
+### Clinic Feedback System
+A system to collect and manage patient feedback digitally, helping clinics improve service quality.
 
+### Appointment Booking System
+A scheduling system that allows users to book and manage appointments efficiently.
+
+### Property Maintenance Management System
+A platform to handle maintenance requests, track issues, and manage workflows for properties.
+
+### SecureDesk (Hackathon Project)
+A project focused on building a secure and efficient workspace system (in progress).
+
+---
+
+## Skills & Focus Areas
+
+- Backend Development  
+- System Design  
+- API Design  
+- Database Design  
+- Problem Solving  
+
+---
+
+## Currently Learning
+
+- Rust (systems programming, performance, memory safety)  
+- Advanced system design concepts  
+- Scalable architecture patterns  
+
+---
+
+## Approach
+
+I believe in:
+- Learning by building real projects  
+- Understanding systems deeply instead of just using tools  
+- Writing clean and maintainable code  
+
+---
+
+## Future Goals
+
+- Build highly scalable systems  
+- Master system architecture  
+- Contribute to meaningful real-world projects  
+
+---
+
+## Connect
+
+Feel free to explore my repositories and projects.
